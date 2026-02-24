@@ -1,5 +1,5 @@
 {
-  "name": "tools",
+  "name": "rocky-email-tool",
   "version": "1.0.0",
   "description": "",
   "main": "email.js",
